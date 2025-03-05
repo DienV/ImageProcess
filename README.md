@@ -48,5 +48,4 @@ Each image will have:
 - `arithmetic_filtered_<filename>.jpg` → Denoised with Arithmetic Mean Filter.
 - `geometric_filtered_<filename>.jpg` → Denoised with Geometric Mean Filter.
 - `gaussian_filtered_<filename>.jpg` → Denoised with Gaussian Filter.
-- `
 ---
